@@ -1,4 +1,4 @@
-/*let score1 = "33abc"
+let score1 = "33abc"
 
 console.log(typeof score);
 console.log(typeof(score));
@@ -34,7 +34,7 @@ let valueInNumber = Number(score)
 console.log(typeof valueInNumber); //number
 console.log(valueInNumber); //1
 
-*/
+
 
 let isLoggedIn = ""
 
