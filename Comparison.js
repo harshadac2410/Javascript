@@ -15,3 +15,4 @@ console.log(undefined == 0); //false
 // Strict check
 
 console.log("2" === 2); //false
+console.log(2 == "2");
